@@ -1,0 +1,13 @@
+module:com.example.turinggame
+Command
+ConsoleVersion
+ConsoleVersion.ConsoleView
+ConsoleVersion.Controller
+JavaFxVersion
+JavaFxVersion.Controller
+JavaFxVersion.View
+JavaFxVersion.View.Util
+Loader
+Model
+Model.Validator
+Util

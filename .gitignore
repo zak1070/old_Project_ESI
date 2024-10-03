@@ -1,0 +1,60 @@
+# .gitignore for IntelliJ Java projects and Qt Creator C++ projects
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.iws
+out/
+target/
+*.class
+*.log
+*.jar
+*.war
+
+# Exclude build directories and compiled files
+bin/
+build/
+.gradle/
+.mvn/
+*.project
+*.classpath
+*.factorypath
+
+# Qt Creator specific files
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.creator.user
+*.creator.user.*
+*.creator.includes
+*.creator.includes.*
+*.creator.variables
+*.creator.variables.*
+
+# Qt Creator build directories
+build-*/
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.dylib
+*.moc
+*.qrc
+*.rcc
+*.ui
+*.qmlc
+*.qmltypes
+
+# Temporary and log files
+*.log
+*.tmp
+*.swp
+*.bak
+*.orig
+.DS_Store
+*.autosave
+
+# Ignore system-specific files
+Thumbs.db
