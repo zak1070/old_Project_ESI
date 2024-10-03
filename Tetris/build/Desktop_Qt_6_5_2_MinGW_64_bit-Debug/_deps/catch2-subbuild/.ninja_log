@@ -1,0 +1,21 @@
+# ninja log v5
+1	126	7482258850002967	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir	4d0b1668d1269cc3
+1	126	7482258850002967	C:/Users/zakmh/OneDrive/Bureau/ESI-INFO/Dev4/Projet/depots/dev4_nasri_mhamdi/Application/Tetris/build/Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir	4d0b1668d1269cc3
+126	5960	7482258908337227	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download	79adc24ffc2c6f62
+126	5960	7482258908337227	C:/Users/zakmh/OneDrive/Bureau/ESI-INFO/Dev4/Projet/depots/dev4_nasri_mhamdi/Application/Tetris/build/Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download	79adc24ffc2c6f62
+5960	6150	0	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	6c45483101c10e52
+5960	6150	0	C:/Users/zakmh/OneDrive/Bureau/ESI-INFO/Dev4/Projet/depots/dev4_nasri_mhamdi/Application/Tetris/build/Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	6c45483101c10e52
+6150	6224	7482258910991132	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	b805d9db98144878
+6150	6224	7482258910991132	C:/Users/zakmh/OneDrive/Bureau/ESI-INFO/Dev4/Projet/depots/dev4_nasri_mhamdi/Application/Tetris/build/Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	b805d9db98144878
+6224	6338	7482258912139567	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	dcd60d88a4e08436
+6224	6338	7482258912139567	C:/Users/zakmh/OneDrive/Bureau/ESI-INFO/Dev4/Projet/depots/dev4_nasri_mhamdi/Application/Tetris/build/Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	dcd60d88a4e08436
+6338	6547	7482258914013794	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	3a9858590bb1f2dc
+6338	6547	7482258914013794	C:/Users/zakmh/OneDrive/Bureau/ESI-INFO/Dev4/Projet/depots/dev4_nasri_mhamdi/Application/Tetris/build/Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	3a9858590bb1f2dc
+6547	6612	7482258914881881	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	992cf2b315aa772e
+6547	6612	7482258914881881	C:/Users/zakmh/OneDrive/Bureau/ESI-INFO/Dev4/Projet/depots/dev4_nasri_mhamdi/Application/Tetris/build/Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	992cf2b315aa772e
+6613	6726	7482258916009600	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	9907c36d699f16ee
+6613	6726	7482258916009600	C:/Users/zakmh/OneDrive/Bureau/ESI-INFO/Dev4/Projet/depots/dev4_nasri_mhamdi/Application/Tetris/build/Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	9907c36d699f16ee
+6726	6955	7482258918305814	CMakeFiles/catch2-populate-complete	85ccd33e9464cc85
+6726	6955	7482258918305814	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	85ccd33e9464cc85
+6726	6955	7482258918305814	C:/Users/zakmh/OneDrive/Bureau/ESI-INFO/Dev4/Projet/depots/dev4_nasri_mhamdi/Application/Tetris/build/Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate-complete	85ccd33e9464cc85
+6726	6955	7482258918305814	C:/Users/zakmh/OneDrive/Bureau/ESI-INFO/Dev4/Projet/depots/dev4_nasri_mhamdi/Application/Tetris/build/Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	85ccd33e9464cc85

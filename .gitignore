@@ -13,7 +13,7 @@ target/
 
 # Exclude build directories and compiled files
 bin/
-build/
+
 .gradle/
 .mvn/
 *.project

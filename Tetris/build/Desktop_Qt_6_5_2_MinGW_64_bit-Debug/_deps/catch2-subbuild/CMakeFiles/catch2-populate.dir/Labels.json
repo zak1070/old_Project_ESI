@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/zakmh/OneDrive/Bureau/ESI-INFO/Dev4/Projet/depots/dev4_nasri_mhamdi/Application/Tetris/build/Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate"
+		},
+		{
+			"file" : "C:/Users/zakmh/OneDrive/Bureau/ESI-INFO/Dev4/Projet/depots/dev4_nasri_mhamdi/Application/Tetris/build/Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate.rule"
+		},
+		{
+			"file" : "C:/Users/zakmh/OneDrive/Bureau/ESI-INFO/Dev4/Projet/depots/dev4_nasri_mhamdi/Application/Tetris/build/Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/zakmh/OneDrive/Bureau/ESI-INFO/Dev4/Projet/depots/dev4_nasri_mhamdi/Application/Tetris/build/Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/zakmh/OneDrive/Bureau/ESI-INFO/Dev4/Projet/depots/dev4_nasri_mhamdi/Application/Tetris/build/Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/zakmh/OneDrive/Bureau/ESI-INFO/Dev4/Projet/depots/dev4_nasri_mhamdi/Application/Tetris/build/Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/zakmh/OneDrive/Bureau/ESI-INFO/Dev4/Projet/depots/dev4_nasri_mhamdi/Application/Tetris/build/Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/zakmh/OneDrive/Bureau/ESI-INFO/Dev4/Projet/depots/dev4_nasri_mhamdi/Application/Tetris/build/Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/zakmh/OneDrive/Bureau/ESI-INFO/Dev4/Projet/depots/dev4_nasri_mhamdi/Application/Tetris/build/Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/zakmh/OneDrive/Bureau/ESI-INFO/Dev4/Projet/depots/dev4_nasri_mhamdi/Application/Tetris/build/Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/zakmh/OneDrive/Bureau/ESI-INFO/Dev4/Projet/depots/dev4_nasri_mhamdi/Application/Tetris/build/Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"catch2-populate"
+		],
+		"name" : "catch2-populate"
+	}
+}
